@@ -44,7 +44,7 @@ This repository contains a collection of my professional certifications in Data 
 
 ---
 
-### 🟠 UCB (University of California, Berkeley)
+### 🟠 UCB (University of Colorado Boulder)
 - Business Analytics for Decision Making  
 
 ---
