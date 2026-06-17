@@ -19,8 +19,15 @@ This repository contains a collection of my professional certifications in Data 
 - Prepare Data for Exploration  
 - Process Data from Dirty to Clean  
 - Share Data Through the Art of Visualization  
-
----
+- Assets, Threats, and Vulnerabilities  
+- Automate Cybersecurity Tasks with Python  
+- Connect and Protect: Networks and Network Security  
+- Foundations of Cybersecurity  
+- Google Cybersecurity Professional Certificate  
+- Play It Safe: Manage Security Risks  
+- Put It to Work: Prepare for Cybersecurity Jobs  
+- Sound the Alarm: Detection and Response  
+- Tools of the Trade: Linux and SQL  
 
 ### 🔵 IBM Certifications
 - Applied Data Science Capstone  
